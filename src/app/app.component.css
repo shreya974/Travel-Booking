@@ -1,0 +1,27 @@
+.input-section {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+button {
+    padding: 5px 15px;
+    font-size: 14px;
+    background-color: #5D57A3;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.trip-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
